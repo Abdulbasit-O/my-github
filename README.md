@@ -1,6 +1,6 @@
 # Small Office Network with DHCP,DNS and VLANs (Cisco Packet Tracer)
 This project is a small office network i built using Cisco Packet Tracer.
-It includes VLANs for seperating departments, a DDHCP for automatic IP addresses, a DNS server for name resolution.
+It includes VLANs for seperating departments, a DHCP for automatic IP addresses, a DNS server for name resolution.
 The goal was to understand how small network works and how to troubleshoot them.
 ## What I Built 
 - Two VLAN (Admin & Support)
